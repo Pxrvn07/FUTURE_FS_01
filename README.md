@@ -42,11 +42,6 @@ portfolio/
 3. Go to **Settings → Pages → Source → main branch**
 4. Your site will be live at `https://Pxrvn07.github.io`
 
-### Netlify (Drag & Drop)
-
-1. Go to [netlify.com](https://netlify.com) and sign up
-2. Drag the entire folder onto the Netlify dashboard
-3. Done — live in seconds with a free URL
 
 ### Vercel
 
